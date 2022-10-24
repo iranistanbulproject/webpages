@@ -339,6 +339,15 @@ figcaption {
   direction: rtl;
 }
 
+.heading-jumbo-small-en {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 400;
+  text-align: center;
+  text-transform: none;
+}
 .styleguide-button-wrap {
   margin-top: 10px;
   margin-bottom: 10px;
